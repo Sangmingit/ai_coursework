@@ -1,4 +1,4 @@
 # aiHeart
 
-Machine Learning Coursework: Alec, Min, Brendan
-Project_Report_Paper
+Machine Learning Coursework: Alec, Min, Brendan<br/>
+Project_Report_Paper: <br/>
